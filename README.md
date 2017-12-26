@@ -863,6 +863,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-admob ★457](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners.
 - [react-native-revmob ★10](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 - [react-native-stripe-api ★94](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
+- [mangopay-client-react ★1](https://ignivalancy.github.io/mangopay-client-react/) - Mangopay React and React Native First JS Client library with card registration workflow.
 
 ### Animation
 
@@ -1075,6 +1076,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [React Native with Django backend ★8](https://github.com/shunpochang/connect_love_mobile_demo)
 - [Simple React Native forms with redux-form, immutable.js and styled-components](http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/)
 - [The beauty of react-native -Build a stunning wallpaper app](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
+- [Learn React Native and Build native mobile apps using JavaScript and React.](https://ignivalancy.github.io/Learn-React-Native/)
 
 ## Problem & Solution
 
